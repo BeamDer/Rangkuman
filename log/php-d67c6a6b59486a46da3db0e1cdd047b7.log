@@ -1,0 +1,37 @@
+[Mon May  1 17:59:57 2023] PHP 8.1.2-1ubuntu2.11 Development Server (http://localhost:2525) started
+[Mon May  1 18:03:12 2023] 127.0.0.1:53290 Accepted
+[Mon May  1 18:03:12 2023] 127.0.0.1:53290 [302]: GET /
+[Mon May  1 18:03:12 2023] 127.0.0.1:53290 Closing
+[Mon May  1 18:03:13 2023] 127.0.0.1:53306 Accepted
+[Mon May  1 18:03:13 2023] 127.0.0.1:53306 [404]: GET /favicon.ico - No such file or directory
+[Mon May  1 18:03:13 2023] 127.0.0.1:53306 Closing
+[Mon May  1 18:03:13 2023] 127.0.0.1:53312 Accepted
+[Mon May  1 18:03:13 2023] 127.0.0.1:53312 [404]: GET /robots.txt - No such file or directory
+[Mon May  1 18:03:13 2023] 127.0.0.1:53312 Closing
+[Mon May  1 18:03:40 2023] 127.0.0.1:53822 Accepted
+[Mon May  1 18:03:40 2023] 127.0.0.1:53822 [302]: GET /
+[Mon May  1 18:03:40 2023] 127.0.0.1:53822 Closing
+[Mon May  1 18:03:41 2023] 127.0.0.1:53830 Accepted
+[Mon May  1 18:03:41 2023] 127.0.0.1:53830 [404]: GET /favicon.ico - No such file or directory
+[Mon May  1 18:03:41 2023] 127.0.0.1:53830 Closing
+[Mon May  1 18:04:21 2023] 127.0.0.1:38728 Accepted
+[Mon May  1 18:04:21 2023] 127.0.0.1:38728 [302]: GET /
+[Mon May  1 18:04:21 2023] 127.0.0.1:38728 Closing
+[Mon May  1 18:04:22 2023] 127.0.0.1:38736 Accepted
+[Mon May  1 18:04:22 2023] 127.0.0.1:38736 [404]: GET /favicon.ico - No such file or directory
+[Mon May  1 18:04:22 2023] 127.0.0.1:38736 Closing
+[Mon May  1 18:05:20 2023] 127.0.0.1:46964 Accepted
+[Mon May  1 18:05:20 2023] 127.0.0.1:46964 [302]: GET /
+[Mon May  1 18:05:20 2023] 127.0.0.1:46964 Closing
+[Mon May  1 18:05:21 2023] 127.0.0.1:46978 Accepted
+[Mon May  1 18:05:21 2023] 127.0.0.1:46978 [404]: GET /favicon.ico - No such file or directory
+[Mon May  1 18:05:21 2023] 127.0.0.1:46978 Closing
+[Mon May  1 18:06:37 2023] 127.0.0.1:47832 Accepted
+[Mon May  1 18:06:37 2023] 127.0.0.1:47840 Accepted
+[Mon May  1 18:06:37 2023] 127.0.0.1:47832 [302]: GET /
+[Mon May  1 18:06:37 2023] 127.0.0.1:47832 Closing
+[Mon May  1 18:06:37 2023] 127.0.0.1:47840 [404]: GET /robots.txt - No such file or directory
+[Mon May  1 18:06:37 2023] 127.0.0.1:47840 Closing
+[Mon May  1 18:06:39 2023] 127.0.0.1:33542 Accepted
+[Mon May  1 18:06:39 2023] 127.0.0.1:33542 [404]: GET /favicon.ico - No such file or directory
+[Mon May  1 18:06:39 2023] 127.0.0.1:33542 Closing
